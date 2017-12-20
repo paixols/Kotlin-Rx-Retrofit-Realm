@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin_Retrofit_Realm_Rx</string>
+    <string name="user_profile_picture">user profile picture</string>
+    <string name="publicRepos">Public Repos: </string>
+</resources>
